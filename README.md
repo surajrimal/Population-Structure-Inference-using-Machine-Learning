@@ -1,2 +1,2 @@
 # Thesis_work
-#Population Structure Inference using PCA and Clustering Algorithms
+# Population Structure Inference using PCA and Clustering Algorithms
