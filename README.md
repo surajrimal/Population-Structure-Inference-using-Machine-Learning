@@ -22,4 +22,4 @@ Clustering using novel algorithms
 Visualize result using DSTRUCT 
 •	Prepare clustering output into suitable DSTRUCT file
 •	Use Adobe Illustrator to convert DSTRUCT file into Image format
-Compare the result of using different parameter and conclude the best
+Compare the result of using different parameter and conclude the best one
