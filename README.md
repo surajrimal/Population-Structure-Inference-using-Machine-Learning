@@ -19,7 +19,7 @@ Clustering using novel algorithms
 •	spectral clustering  
 •	Hierarchical method  
 # Result and discussion   
-Visualize result using DSTRUCT   
-•	Prepare clustering output into suitable DSTRUCT file  
-•	Use Adobe Illustrator to convert DSTRUCT file into Image format  
+Visualize result using DISTRUCT   
+•	Prepare clustering output into suitable DISTRUCT file  
+•	Use Adobe Illustrator to convert DISTRUCT file into Image format  
 Compare the result of using different parameter and conclude the best one  
