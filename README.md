@@ -1,7 +1,7 @@
 # Thesis_work
 # Population Structure Inference using PCA and Clustering Algorithms
 # Data
-Real HGDP
+Real HGDP  
 Simualted dataset
 # PCA
 Handling of Linkage Disequilibrium
