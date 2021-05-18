@@ -3,7 +3,7 @@
 # Data
 Real HGDP  
 Simualted dataset
-# PCA
+# Principal Component Analysis (PCA)
 Handling of Linkage Disequilibrium  
 Significant PCA in both dataset  
 •	Try 3 pcs  
