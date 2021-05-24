@@ -1,0 +1,654 @@
+"hgdp_id"	"Origin"	"Geographic.origin"	"cluster"
+"HGDP00001"	"Brahui"	"Pakistan"	1
+"HGDP00003"	"Brahui"	"Pakistan"	1
+"HGDP00005"	"Brahui"	"Pakistan"	1
+"HGDP00007"	"Brahui"	"Pakistan"	1
+"HGDP00009"	"Brahui"	"Pakistan"	3
+"HGDP00011"	"Brahui"	"Pakistan"	1
+"HGDP00013"	"Brahui"	"Pakistan"	1
+"HGDP00015"	"Brahui"	"Pakistan"	1
+"HGDP00017"	"Brahui"	"Pakistan"	1
+"HGDP00019"	"Brahui"	"Pakistan"	3
+"HGDP00021"	"Brahui"	"Pakistan"	1
+"HGDP00023"	"Brahui"	"Pakistan"	1
+"HGDP00025"	"Brahui"	"Pakistan"	1
+"HGDP00027"	"Brahui"	"Pakistan"	1
+"HGDP00029"	"Brahui"	"Pakistan"	1
+"HGDP00031"	"Brahui"	"Pakistan"	1
+"HGDP00033"	"Brahui"	"Pakistan"	2
+"HGDP00035"	"Brahui"	"Pakistan"	1
+"HGDP00037"	"Brahui"	"Pakistan"	1
+"HGDP00039"	"Brahui"	"Pakistan"	1
+"HGDP00041"	"Brahui"	"Pakistan"	1
+"HGDP00043"	"Brahui"	"Pakistan"	1
+"HGDP00045"	"Brahui"	"Pakistan"	1
+"HGDP00047"	"Brahui"	"Pakistan"	1
+"HGDP00049"	"Brahui"	"Pakistan"	1
+"HGDP00052"	"Balochi"	"Pakistan"	1
+"HGDP00054"	"Balochi"	"Pakistan"	1
+"HGDP00056"	"Balochi"	"Pakistan"	1
+"HGDP00057"	"Balochi"	"Pakistan"	1
+"HGDP00058"	"Balochi"	"Pakistan"	1
+"HGDP00062"	"Balochi"	"Pakistan"	1
+"HGDP00064"	"Balochi"	"Pakistan"	1
+"HGDP00066"	"Balochi"	"Pakistan"	1
+"HGDP00068"	"Balochi"	"Pakistan"	1
+"HGDP00070"	"Balochi"	"Pakistan"	1
+"HGDP00072"	"Balochi"	"Pakistan"	1
+"HGDP00074"	"Balochi"	"Pakistan"	1
+"HGDP00076"	"Balochi"	"Pakistan"	1
+"HGDP00078"	"Balochi"	"Pakistan"	1
+"HGDP00080"	"Balochi"	"Pakistan"	1
+"HGDP00082"	"Balochi"	"Pakistan"	1
+"HGDP00086"	"Balochi"	"Pakistan"	3
+"HGDP00088"	"Balochi"	"Pakistan"	1
+"HGDP00090"	"Balochi"	"Pakistan"	1
+"HGDP00092"	"Balochi"	"Pakistan"	1
+"HGDP00094"	"Balochi"	"Pakistan"	1
+"HGDP00096"	"Balochi"	"Pakistan"	1
+"HGDP00098"	"Balochi"	"Pakistan"	3
+"HGDP00099"	"Hazara"	"Pakistan"	1
+"HGDP00100"	"Hazara"	"Pakistan"	1
+"HGDP00102"	"Hazara"	"Pakistan"	2
+"HGDP00103"	"Hazara"	"Pakistan"	2
+"HGDP00104"	"Hazara"	"Pakistan"	1
+"HGDP00105"	"Hazara"	"Pakistan"	2
+"HGDP00106"	"Hazara"	"Pakistan"	2
+"HGDP00108"	"Hazara"	"Pakistan"	2
+"HGDP00109"	"Hazara"	"Pakistan"	2
+"HGDP00110"	"Hazara"	"Pakistan"	2
+"HGDP00112"	"Hazara"	"Pakistan"	2
+"HGDP00115"	"Hazara"	"Pakistan"	1
+"HGDP00116"	"Hazara"	"Pakistan"	2
+"HGDP00118"	"Hazara"	"Pakistan"	2
+"HGDP00119"	"Hazara"	"Pakistan"	2
+"HGDP00120"	"Hazara"	"Pakistan"	2
+"HGDP00121"	"Hazara"	"Pakistan"	2
+"HGDP00122"	"Hazara"	"Pakistan"	2
+"HGDP00124"	"Hazara"	"Pakistan"	2
+"HGDP00125"	"Hazara"	"Pakistan"	2
+"HGDP00127"	"Hazara"	"Pakistan"	2
+"HGDP00129"	"Hazara"	"Pakistan"	2
+"HGDP00130"	"Makrani"	"Pakistan"	1
+"HGDP00131"	"Makrani"	"Pakistan"	1
+"HGDP00133"	"Makrani"	"Pakistan"	1
+"HGDP00134"	"Makrani"	"Pakistan"	1
+"HGDP00135"	"Makrani"	"Pakistan"	1
+"HGDP00136"	"Makrani"	"Pakistan"	1
+"HGDP00137"	"Makrani"	"Pakistan"	1
+"HGDP00139"	"Makrani"	"Pakistan"	1
+"HGDP00140"	"Makrani"	"Pakistan"	1
+"HGDP00141"	"Makrani"	"Pakistan"	1
+"HGDP00143"	"Makrani"	"Pakistan"	3
+"HGDP00144"	"Makrani"	"Pakistan"	1
+"HGDP00145"	"Makrani"	"Pakistan"	1
+"HGDP00146"	"Makrani"	"Pakistan"	3
+"HGDP00148"	"Makrani"	"Pakistan"	1
+"HGDP00149"	"Makrani"	"Pakistan"	1
+"HGDP00150"	"Makrani"	"Pakistan"	1
+"HGDP00151"	"Makrani"	"Pakistan"	1
+"HGDP00153"	"Makrani"	"Pakistan"	3
+"HGDP00154"	"Makrani"	"Pakistan"	1
+"HGDP00155"	"Makrani"	"Pakistan"	1
+"HGDP00157"	"Makrani"	"Pakistan"	1
+"HGDP00158"	"Makrani"	"Pakistan"	1
+"HGDP00160"	"Makrani"	"Pakistan"	1
+"HGDP00161"	"Makrani"	"Pakistan"	3
+"HGDP00163"	"Sindhi"	"Pakistan"	1
+"HGDP00165"	"Sindhi"	"Pakistan"	1
+"HGDP00167"	"Sindhi"	"Pakistan"	1
+"HGDP00169"	"Sindhi"	"Pakistan"	1
+"HGDP00171"	"Sindhi"	"Pakistan"	1
+"HGDP00173"	"Sindhi"	"Pakistan"	1
+"HGDP00175"	"Sindhi"	"Pakistan"	1
+"HGDP00177"	"Sindhi"	"Pakistan"	1
+"HGDP00179"	"Sindhi"	"Pakistan"	1
+"HGDP00181"	"Sindhi"	"Pakistan"	1
+"HGDP00183"	"Sindhi"	"Pakistan"	1
+"HGDP00185"	"Sindhi"	"Pakistan"	1
+"HGDP00187"	"Sindhi"	"Pakistan"	1
+"HGDP00189"	"Sindhi"	"Pakistan"	1
+"HGDP00191"	"Sindhi"	"Pakistan"	3
+"HGDP00192"	"Sindhi"	"Pakistan"	1
+"HGDP00195"	"Sindhi"	"Pakistan"	1
+"HGDP00197"	"Sindhi"	"Pakistan"	1
+"HGDP00199"	"Sindhi"	"Pakistan"	1
+"HGDP00201"	"Sindhi"	"Pakistan"	1
+"HGDP00205"	"Sindhi"	"Pakistan"	1
+"HGDP00206"	"Sindhi"	"Pakistan"	1
+"HGDP00208"	"Sindhi"	"Pakistan"	1
+"HGDP00210"	"Sindhi"	"Pakistan"	1
+"HGDP00213"	"Pathan"	"Pakistan"	1
+"HGDP00214"	"Pathan"	"Pakistan"	1
+"HGDP00216"	"Pathan"	"Pakistan"	1
+"HGDP00218"	"Pathan"	"Pakistan"	1
+"HGDP00222"	"Pathan"	"Pakistan"	1
+"HGDP00224"	"Pathan"	"Pakistan"	1
+"HGDP00226"	"Pathan"	"Pakistan"	1
+"HGDP00228"	"Pathan"	"Pakistan"	1
+"HGDP00230"	"Pathan"	"Pakistan"	1
+"HGDP00232"	"Pathan"	"Pakistan"	1
+"HGDP00234"	"Pathan"	"Pakistan"	1
+"HGDP00237"	"Pathan"	"Pakistan"	1
+"HGDP00239"	"Pathan"	"Pakistan"	1
+"HGDP00241"	"Pathan"	"Pakistan"	1
+"HGDP00243"	"Pathan"	"Pakistan"	1
+"HGDP00244"	"Pathan"	"Pakistan"	1
+"HGDP00247"	"Pathan"	"Pakistan"	3
+"HGDP00248"	"Pathan"	"Pakistan"	1
+"HGDP00251"	"Pathan"	"Pakistan"	1
+"HGDP00254"	"Pathan"	"Pakistan"	1
+"HGDP00258"	"Pathan"	"Pakistan"	1
+"HGDP00259"	"Pathan"	"Pakistan"	1
+"HGDP00262"	"Pathan"	"Pakistan"	1
+"HGDP00264"	"Pathan"	"Pakistan"	1
+"HGDP00267"	"Kalash"	"Pakistan"	1
+"HGDP00274"	"Kalash"	"Pakistan"	1
+"HGDP00277"	"Kalash"	"Pakistan"	1
+"HGDP00279"	"Kalash"	"Pakistan"	1
+"HGDP00281"	"Kalash"	"Pakistan"	1
+"HGDP00285"	"Kalash"	"Pakistan"	1
+"HGDP00286"	"Kalash"	"Pakistan"	1
+"HGDP00288"	"Kalash"	"Pakistan"	1
+"HGDP00290"	"Kalash"	"Pakistan"	1
+"HGDP00298"	"Kalash"	"Pakistan"	1
+"HGDP00302"	"Kalash"	"Pakistan"	1
+"HGDP00304"	"Kalash"	"Pakistan"	1
+"HGDP00307"	"Kalash"	"Pakistan"	1
+"HGDP00309"	"Kalash"	"Pakistan"	1
+"HGDP00311"	"Kalash"	"Pakistan"	1
+"HGDP00313"	"Kalash"	"Pakistan"	1
+"HGDP00315"	"Kalash"	"Pakistan"	1
+"HGDP00319"	"Kalash"	"Pakistan"	1
+"HGDP00323"	"Kalash"	"Pakistan"	1
+"HGDP00326"	"Kalash"	"Pakistan"	1
+"HGDP00328"	"Kalash"	"Pakistan"	1
+"HGDP00330"	"Kalash"	"Pakistan"	1
+"HGDP00333"	"Kalash"	"Pakistan"	1
+"HGDP00336"	"Burusho"	"Pakistan"	2
+"HGDP00338"	"Burusho"	"Pakistan"	3
+"HGDP00341"	"Burusho"	"Pakistan"	1
+"HGDP00346"	"Burusho"	"Pakistan"	1
+"HGDP00351"	"Burusho"	"Pakistan"	2
+"HGDP00356"	"Burusho"	"Pakistan"	1
+"HGDP00359"	"Burusho"	"Pakistan"	1
+"HGDP00364"	"Burusho"	"Pakistan"	1
+"HGDP00371"	"Burusho"	"Pakistan"	1
+"HGDP00372"	"Burusho"	"Pakistan"	1
+"HGDP00376"	"Burusho"	"Pakistan"	3
+"HGDP00382"	"Burusho"	"Pakistan"	1
+"HGDP00388"	"Burusho"	"Pakistan"	1
+"HGDP00392"	"Burusho"	"Pakistan"	1
+"HGDP00397"	"Burusho"	"Pakistan"	1
+"HGDP00402"	"Burusho"	"Pakistan"	2
+"HGDP00407"	"Burusho"	"Pakistan"	1
+"HGDP00412"	"Burusho"	"Pakistan"	1
+"HGDP00417"	"Burusho"	"Pakistan"	1
+"HGDP00423"	"Burusho"	"Pakistan"	1
+"HGDP00428"	"Burusho"	"Pakistan"	1
+"HGDP00433"	"Burusho"	"Pakistan"	1
+"HGDP00438"	"Burusho"	"Pakistan"	1
+"HGDP00444"	"Burusho"	"Pakistan"	1
+"HGDP00445"	"Burusho"	"Pakistan"	1
+"HGDP00449"	"Mbuti_Pygmies"	"Democratic Republic of Congo"	4
+"HGDP00452"	"Biaka_Pygmies"	"Central African Republic"	4
+"HGDP00457"	"Biaka_Pygmies"	"Central African Republic"	4
+"HGDP00460"	"Biaka_Pygmies"	"Central African Republic"	4
+"HGDP00464"	"Biaka_Pygmies"	"Central African Republic"	4
+"HGDP00465"	"Biaka_Pygmies"	"Central African Republic"	4
+"HGDP00467"	"Mbuti_Pygmies"	"Democratic Republic of Congo"	4
+"HGDP00470"	"Biaka_Pygmies"	"Central African Republic"	4
+"HGDP00471"	"Mbuti_Pygmies"	"Democratic Republic of Congo"	4
+"HGDP00473"	"Biaka_Pygmies"	"Central African Republic"	4
+"HGDP00475"	"Biaka_Pygmies"	"Central African Republic"	4
+"HGDP00478"	"Mbuti_Pygmies"	"Democratic Republic of Congo"	1
+"HGDP00479"	"Biaka_Pygmies"	"Central African Republic"	4
+"HGDP00511"	"French"	"France"	3
+"HGDP00512"	"French"	"France"	3
+"HGDP00513"	"French"	"France"	3
+"HGDP00514"	"French"	"France"	3
+"HGDP00515"	"French"	"France"	3
+"HGDP00516"	"French"	"France"	3
+"HGDP00517"	"French"	"France"	3
+"HGDP00518"	"French"	"France"	3
+"HGDP00519"	"French"	"France"	3
+"HGDP00520"	"French"	"France"	3
+"HGDP00521"	"French"	"France"	3
+"HGDP00522"	"French"	"France"	3
+"HGDP00523"	"French"	"France"	3
+"HGDP00524"	"French"	"France"	3
+"HGDP00525"	"French"	"France"	3
+"HGDP00526"	"French"	"France"	3
+"HGDP00527"	"French"	"France"	3
+"HGDP00528"	"French"	"France"	3
+"HGDP00529"	"French"	"France"	3
+"HGDP00530"	"French"	"France"	3
+"HGDP00531"	"French"	"France"	3
+"HGDP00533"	"French"	"France"	3
+"HGDP00534"	"French"	"France"	3
+"HGDP00535"	"French"	"France"	3
+"HGDP00536"	"French"	"France"	3
+"HGDP00537"	"French"	"France"	3
+"HGDP00538"	"French"	"France"	3
+"HGDP00539"	"French"	"France"	3
+"HGDP00665"	"Sardinian"	"Italy"	3
+"HGDP00666"	"Sardinian"	"Italy"	3
+"HGDP00667"	"Sardinian"	"Italy"	3
+"HGDP00668"	"Sardinian"	"Italy"	3
+"HGDP00669"	"Sardinian"	"Italy"	3
+"HGDP00670"	"Sardinian"	"Italy"	3
+"HGDP00671"	"Sardinian"	"Italy"	3
+"HGDP00672"	"Sardinian"	"Italy"	3
+"HGDP00673"	"Sardinian"	"Italy"	3
+"HGDP00674"	"Sardinian"	"Italy"	3
+"HGDP00711"	"Cambodians"	"Cambodia"	2
+"HGDP00712"	"Cambodians"	"Cambodia"	2
+"HGDP00713"	"Cambodians"	"Cambodia"	2
+"HGDP00714"	"Cambodians"	"Cambodia"	2
+"HGDP00715"	"Cambodians"	"Cambodia"	2
+"HGDP00716"	"Cambodians"	"Cambodia"	2
+"HGDP00717"	"Cambodians"	"Cambodia"	2
+"HGDP00719"	"Cambodians"	"Cambodia"	2
+"HGDP00720"	"Cambodians"	"Cambodia"	2
+"HGDP00721"	"Cambodians"	"Cambodia"	2
+"HGDP00747"	"Japanese"	"Japan"	2
+"HGDP00748"	"Japanese"	"Japan"	2
+"HGDP00749"	"Japanese"	"Japan"	2
+"HGDP00750"	"Japanese"	"Japan"	2
+"HGDP00751"	"Japanese"	"Japan"	2
+"HGDP00752"	"Japanese"	"Japan"	2
+"HGDP00753"	"Japanese"	"Japan"	2
+"HGDP00754"	"Japanese"	"Japan"	2
+"HGDP00755"	"Japanese"	"Japan"	2
+"HGDP00756"	"Japanese"	"Japan"	2
+"HGDP00757"	"Japanese"	"Japan"	2
+"HGDP00758"	"Japanese"	"Japan"	2
+"HGDP00759"	"Japanese"	"Japan"	2
+"HGDP00760"	"Japanese"	"Japan"	2
+"HGDP00761"	"Japanese"	"Japan"	2
+"HGDP00762"	"Japanese"	"Japan"	2
+"HGDP00763"	"Japanese"	"Japan"	2
+"HGDP00764"	"Japanese"	"Japan"	2
+"HGDP00765"	"Japanese"	"Japan"	2
+"HGDP00766"	"Japanese"	"Japan"	2
+"HGDP00767"	"Japanese"	"Japan"	2
+"HGDP00768"	"Japanese"	"Japan"	2
+"HGDP00769"	"Japanese"	"Japan"	2
+"HGDP00771"	"Japanese"	"Japan"	2
+"HGDP00772"	"Japanese"	"Japan"	2
+"HGDP00773"	"Japanese"	"Japan"	2
+"HGDP00774"	"Han"	"China"	2
+"HGDP00775"	"Han"	"China"	2
+"HGDP00776"	"Han"	"China"	2
+"HGDP00777"	"Han"	"China"	2
+"HGDP00778"	"Han"	"China"	2
+"HGDP00779"	"Han"	"China"	2
+"HGDP00780"	"Han"	"China"	2
+"HGDP00781"	"Han"	"China"	2
+"HGDP00782"	"Han"	"China"	2
+"HGDP00783"	"Han"	"China"	2
+"HGDP00784"	"Han"	"China"	2
+"HGDP00785"	"Han"	"China"	2
+"HGDP00786"	"Han"	"China"	2
+"HGDP00790"	"Japanese"	"Japan"	2
+"HGDP00791"	"Japanese"	"Japan"	2
+"HGDP00794"	"Orcadian"	"Orkney Islands"	3
+"HGDP00795"	"Orcadian"	"Orkney Islands"	3
+"HGDP00796"	"Orcadian"	"Orkney Islands"	3
+"HGDP00797"	"Orcadian"	"Orkney Islands"	3
+"HGDP00798"	"Orcadian"	"Orkney Islands"	3
+"HGDP00799"	"Orcadian"	"Orkney Islands"	3
+"HGDP00800"	"Orcadian"	"Orkney Islands"	3
+"HGDP00802"	"Orcadian"	"Orkney Islands"	3
+"HGDP00803"	"Orcadian"	"Orkney Islands"	1
+"HGDP00804"	"Orcadian"	"Orkney Islands"	3
+"HGDP00805"	"Orcadian"	"Orkney Islands"	3
+"HGDP00806"	"Orcadian"	"Orkney Islands"	3
+"HGDP00807"	"Orcadian"	"Orkney Islands"	3
+"HGDP00808"	"Orcadian"	"Orkney Islands"	3
+"HGDP00810"	"Orcadian"	"Orkney Islands"	1
+"HGDP00811"	"Han"	"China"	2
+"HGDP00812"	"Han"	"China"	2
+"HGDP00813"	"Han"	"China"	2
+"HGDP00814"	"Han"	"China"	2
+"HGDP00815"	"Han"	"China"	2
+"HGDP00817"	"Han"	"China"	2
+"HGDP00818"	"Han"	"China"	2
+"HGDP00819"	"Han"	"China"	2
+"HGDP00820"	"Han"	"China"	2
+"HGDP00821"	"Han"	"China"	2
+"HGDP00822"	"Han"	"China"	2
+"HGDP00828"	"Japanese"	"Japan"	2
+"HGDP00879"	"Russian"	"Russia"	3
+"HGDP00880"	"Russian"	"Russia"	3
+"HGDP00881"	"Russian"	"Russia"	3
+"HGDP00882"	"Russian"	"Russia"	3
+"HGDP00883"	"Russian"	"Russia"	3
+"HGDP00884"	"Russian"	"Russia"	3
+"HGDP00885"	"Russian"	"Russia"	1
+"HGDP00886"	"Russian"	"Russia"	3
+"HGDP00887"	"Russian"	"Russia"	3
+"HGDP00888"	"Russian"	"Russia"	3
+"HGDP00889"	"Russian"	"Russia"	3
+"HGDP00890"	"Russian"	"Russia"	2
+"HGDP00891"	"Russian"	"Russia"	3
+"HGDP00892"	"Russian"	"Russia"	3
+"HGDP00893"	"Russian"	"Russia"	3
+"HGDP00894"	"Russian"	"Russia"	3
+"HGDP00895"	"Russian"	"Russia"	3
+"HGDP00896"	"Russian"	"Russia"	3
+"HGDP00897"	"Russian"	"Russia"	3
+"HGDP00898"	"Russian"	"Russia"	3
+"HGDP00899"	"Russian"	"Russia"	3
+"HGDP00900"	"Russian"	"Russia"	3
+"HGDP00901"	"Russian"	"Russia"	3
+"HGDP00902"	"Russian"	"Russia"	3
+"HGDP00903"	"Russian"	"Russia"	3
+"HGDP00905"	"Mandenka"	"Senegal"	4
+"HGDP00906"	"Mandenka"	"Senegal"	4
+"HGDP00908"	"Mandenka"	"Senegal"	4
+"HGDP00909"	"Mandenka"	"Senegal"	1
+"HGDP00910"	"Mandenka"	"Senegal"	4
+"HGDP00912"	"Mandenka"	"Senegal"	4
+"HGDP00914"	"Mandenka"	"Senegal"	4
+"HGDP00915"	"Mandenka"	"Senegal"	4
+"HGDP00917"	"Mandenka"	"Senegal"	4
+"HGDP00918"	"Mandenka"	"Senegal"	4
+"HGDP00924"	"Yoruba"	"Nigeria"	4
+"HGDP00926"	"Yoruba"	"Nigeria"	4
+"HGDP00927"	"Yoruba"	"Nigeria"	4
+"HGDP00928"	"Yoruba"	"Nigeria"	4
+"HGDP00929"	"Yoruba"	"Nigeria"	4
+"HGDP00930"	"Yoruba"	"Nigeria"	4
+"HGDP00931"	"Yoruba"	"Nigeria"	4
+"HGDP00932"	"Yoruba"	"Nigeria"	4
+"HGDP00933"	"Yoruba"	"Nigeria"	4
+"HGDP00937"	"Yoruba"	"Nigeria"	4
+"HGDP00938"	"Yoruba"	"Nigeria"	4
+"HGDP00939"	"Yoruba"	"Nigeria"	4
+"HGDP00943"	"Yoruba"	"Nigeria"	4
+"HGDP00944"	"Yoruba"	"Nigeria"	4
+"HGDP00945"	"Yakut"	"Siberia"	2
+"HGDP00946"	"Yakut"	"Siberia"	2
+"HGDP00947"	"Yakut"	"Siberia"	2
+"HGDP00948"	"Yakut"	"Siberia"	2
+"HGDP00949"	"Yakut"	"Siberia"	2
+"HGDP00950"	"Yakut"	"Siberia"	2
+"HGDP00951"	"Yakut"	"Siberia"	2
+"HGDP00952"	"Yakut"	"Siberia"	2
+"HGDP00953"	"Yakut"	"Siberia"	2
+"HGDP00954"	"Yakut"	"Siberia"	2
+"HGDP00955"	"Yakut"	"Siberia"	2
+"HGDP00956"	"Yakut"	"Siberia"	2
+"HGDP00957"	"Yakut"	"Siberia"	2
+"HGDP00958"	"Yakut"	"Siberia"	2
+"HGDP00959"	"Yakut"	"Siberia"	2
+"HGDP00960"	"Yakut"	"Siberia"	2
+"HGDP00961"	"Yakut"	"Siberia"	2
+"HGDP00962"	"Yakut"	"Siberia"	2
+"HGDP00963"	"Yakut"	"Siberia"	2
+"HGDP00964"	"Yakut"	"Siberia"	2
+"HGDP00965"	"Yakut"	"Siberia"	2
+"HGDP00966"	"Yakut"	"Siberia"	2
+"HGDP00967"	"Yakut"	"Siberia"	2
+"HGDP00968"	"Yakut"	"Siberia"	2
+"HGDP00969"	"Yakut"	"Siberia"	2
+"HGDP00971"	"Han"	"China"	2
+"HGDP00972"	"Han"	"China"	2
+"HGDP00973"	"Han"	"China"	2
+"HGDP00974"	"Han"	"China"	2
+"HGDP00975"	"Han"	"China"	2
+"HGDP00976"	"Han"	"China"	2
+"HGDP00977"	"Han"	"China"	2
+"HGDP00985"	"Biaka_Pygmies"	"Central African Republic"	4
+"HGDP00986"	"Biaka_Pygmies"	"Central African Republic"	4
+"HGDP00992"	"San"	"Namibia"	4
+"HGDP00993"	"Bantu_S.E._Pedi"	"South Africa"	4
+"HGDP00994"	"Bantu_S.E._S.Sotho"	"South Africa"	4
+"HGDP01021"	"Han"	"China"	2
+"HGDP01023"	"Han"	"China"	2
+"HGDP01024"	"Han"	"China"	2
+"HGDP01028"	"Bantu_S.W._Herero"	"South Africa"	4
+"HGDP01031"	"Bantu_S.W._Ovambo"	"South Africa"	4
+"HGDP01062"	"Sardinian"	"Italy"	3
+"HGDP01063"	"Sardinian"	"Italy"	1
+"HGDP01064"	"Sardinian"	"Italy"	3
+"HGDP01065"	"Sardinian"	"Italy"	3
+"HGDP01066"	"Sardinian"	"Italy"	3
+"HGDP01067"	"Sardinian"	"Italy"	1
+"HGDP01068"	"Sardinian"	"Italy"	3
+"HGDP01069"	"Sardinian"	"Italy"	3
+"HGDP01070"	"Sardinian"	"Italy"	3
+"HGDP01071"	"Sardinian"	"Italy"	3
+"HGDP01072"	"Sardinian"	"Italy"	3
+"HGDP01073"	"Sardinian"	"Italy"	3
+"HGDP01074"	"Sardinian"	"Italy"	3
+"HGDP01075"	"Sardinian"	"Italy"	3
+"HGDP01076"	"Sardinian"	"Italy"	3
+"HGDP01077"	"Sardinian"	"Italy"	3
+"HGDP01078"	"Sardinian"	"Italy"	3
+"HGDP01079"	"Sardinian"	"Italy"	3
+"HGDP01081"	"Mbuti_Pygmies"	"Democratic Republic of Congo"	4
+"HGDP01086"	"Biaka_Pygmies"	"Central African Republic"	4
+"HGDP01094"	"Biaka_Pygmies"	"Central African Republic"	4
+"HGDP01095"	"Tujia"	"China"	2
+"HGDP01096"	"Tujia"	"China"	2
+"HGDP01097"	"Tujia"	"China"	2
+"HGDP01098"	"Tujia"	"China"	2
+"HGDP01099"	"Tujia"	"China"	2
+"HGDP01100"	"Tujia"	"China"	2
+"HGDP01101"	"Tujia"	"China"	2
+"HGDP01102"	"Tujia"	"China"	2
+"HGDP01103"	"Tujia"	"China"	2
+"HGDP01104"	"Tujia"	"China"	2
+"HGDP01147"	"North_Italian"	"Italy (Bergamo)"	3
+"HGDP01149"	"North_Italian"	"Italy (Bergamo)"	3
+"HGDP01151"	"North_Italian"	"Italy (Bergamo)"	3
+"HGDP01152"	"North_Italian"	"Italy (Bergamo)"	3
+"HGDP01153"	"North_Italian"	"Italy (Bergamo)"	1
+"HGDP01155"	"North_Italian"	"Italy (Bergamo)"	3
+"HGDP01156"	"North_Italian"	"Italy (Bergamo)"	3
+"HGDP01157"	"North_Italian"	"Italy (Bergamo)"	3
+"HGDP01161"	"Tuscan"	"Italy"	3
+"HGDP01162"	"Tuscan"	"Italy"	3
+"HGDP01163"	"Tuscan"	"Italy"	3
+"HGDP01164"	"Tuscan"	"Italy"	3
+"HGDP01166"	"Tuscan"	"Italy"	3
+"HGDP01167"	"Tuscan"	"Italy"	1
+"HGDP01168"	"Tuscan"	"Italy"	1
+"HGDP01169"	"Tuscan"	"Italy"	3
+"HGDP01171"	"North_Italian"	"Italy (Bergamo)"	3
+"HGDP01172"	"North_Italian"	"Italy (Bergamo)"	3
+"HGDP01173"	"North_Italian"	"Italy (Bergamo)"	3
+"HGDP01174"	"North_Italian"	"Italy (Bergamo)"	1
+"HGDP01177"	"North_Italian"	"Italy (Bergamo)"	3
+"HGDP01179"	"Yizu"	"China"	2
+"HGDP01180"	"Yizu"	"China"	2
+"HGDP01181"	"Yizu"	"China"	2
+"HGDP01182"	"Yizu"	"China"	2
+"HGDP01183"	"Yizu"	"China"	2
+"HGDP01184"	"Yizu"	"China"	2
+"HGDP01185"	"Yizu"	"China"	2
+"HGDP01186"	"Yizu"	"China"	2
+"HGDP01187"	"Yizu"	"China"	2
+"HGDP01188"	"Yizu"	"China"	2
+"HGDP01189"	"Miaozu"	"China"	2
+"HGDP01190"	"Miaozu"	"China"	2
+"HGDP01191"	"Miaozu"	"China"	2
+"HGDP01192"	"Miaozu"	"China"	2
+"HGDP01193"	"Miaozu"	"China"	2
+"HGDP01194"	"Miaozu"	"China"	2
+"HGDP01195"	"Miaozu"	"China"	2
+"HGDP01196"	"Miaozu"	"China"	2
+"HGDP01197"	"Miaozu"	"China"	2
+"HGDP01198"	"Miaozu"	"China"	2
+"HGDP01199"	"Mandenka"	"Senegal"	4
+"HGDP01200"	"Mandenka"	"Senegal"	4
+"HGDP01201"	"Mandenka"	"Senegal"	4
+"HGDP01202"	"Mandenka"	"Senegal"	4
+"HGDP01203"	"Oroqen"	"China"	2
+"HGDP01204"	"Oroqen"	"China"	2
+"HGDP01205"	"Oroqen"	"China"	2
+"HGDP01206"	"Oroqen"	"China"	2
+"HGDP01207"	"Oroqen"	"China"	2
+"HGDP01208"	"Oroqen"	"China"	2
+"HGDP01209"	"Oroqen"	"China"	2
+"HGDP01211"	"Oroqen"	"China"	2
+"HGDP01212"	"Oroqen"	"China"	2
+"HGDP01213"	"Daur"	"China"	2
+"HGDP01214"	"Daur"	"China"	2
+"HGDP01215"	"Daur"	"China"	2
+"HGDP01216"	"Daur"	"China"	2
+"HGDP01217"	"Daur"	"China"	2
+"HGDP01218"	"Daur"	"China"	2
+"HGDP01219"	"Daur"	"China"	2
+"HGDP01220"	"Daur"	"China"	2
+"HGDP01221"	"Daur"	"China"	2
+"HGDP01222"	"Daur"	"China"	2
+"HGDP01223"	"Mongola"	"China"	2
+"HGDP01224"	"Mongola"	"China"	2
+"HGDP01225"	"Mongola"	"China"	2
+"HGDP01226"	"Mongola"	"China"	2
+"HGDP01227"	"Mongola"	"China"	2
+"HGDP01228"	"Mongola"	"China"	2
+"HGDP01229"	"Mongola"	"China"	2
+"HGDP01230"	"Mongola"	"China"	2
+"HGDP01231"	"Mongola"	"China"	2
+"HGDP01232"	"Mongola"	"China"	2
+"HGDP01233"	"Hezhen"	"China"	2
+"HGDP01234"	"Hezhen"	"China"	2
+"HGDP01236"	"Hezhen"	"China"	2
+"HGDP01237"	"Hezhen"	"China"	2
+"HGDP01238"	"Hezhen"	"China"	2
+"HGDP01239"	"Hezhen"	"China"	2
+"HGDP01240"	"Hezhen"	"China"	2
+"HGDP01241"	"Hezhen"	"China"	2
+"HGDP01242"	"Hezhen"	"China"	2
+"HGDP01243"	"Xibo"	"China"	2
+"HGDP01244"	"Xibo"	"China"	2
+"HGDP01245"	"Xibo"	"China"	2
+"HGDP01246"	"Xibo"	"China"	2
+"HGDP01247"	"Xibo"	"China"	2
+"HGDP01248"	"Xibo"	"China"	2
+"HGDP01249"	"Xibo"	"China"	2
+"HGDP01250"	"Xibo"	"China"	2
+"HGDP01251"	"Xibo"	"China"	2
+"HGDP01284"	"Mandenka"	"Senegal"	4
+"HGDP01285"	"Mandenka"	"Senegal"	4
+"HGDP01287"	"Han"	"China"	2
+"HGDP01288"	"Han"	"China"	2
+"HGDP01289"	"Han"	"China"	2
+"HGDP01290"	"Han"	"China"	2
+"HGDP01291"	"Han"	"China"	2
+"HGDP01292"	"Han"	"China"	2
+"HGDP01293"	"Han"	"China"	2
+"HGDP01294"	"Han"	"China"	2
+"HGDP01295"	"Han"	"China"	2
+"HGDP01296"	"Han"	"China"	2
+"HGDP01297"	"Uygur"	"China"	1
+"HGDP01298"	"Uygur"	"China"	1
+"HGDP01299"	"Uygur"	"China"	2
+"HGDP01300"	"Uygur"	"China"	1
+"HGDP01301"	"Uygur"	"China"	1
+"HGDP01302"	"Uygur"	"China"	2
+"HGDP01303"	"Uygur"	"China"	2
+"HGDP01304"	"Uygur"	"China"	2
+"HGDP01305"	"Uygur"	"China"	2
+"HGDP01306"	"Uygur"	"China"	2
+"HGDP01307"	"Dai"	"China"	2
+"HGDP01308"	"Dai"	"China"	2
+"HGDP01309"	"Dai"	"China"	2
+"HGDP01310"	"Dai"	"China"	2
+"HGDP01311"	"Dai"	"China"	2
+"HGDP01312"	"Dai"	"China"	2
+"HGDP01313"	"Dai"	"China"	2
+"HGDP01314"	"Dai"	"China"	2
+"HGDP01315"	"Dai"	"China"	2
+"HGDP01316"	"Dai"	"China"	2
+"HGDP01317"	"Lahu"	"China"	2
+"HGDP01318"	"Lahu"	"China"	2
+"HGDP01319"	"Lahu"	"China"	2
+"HGDP01320"	"Lahu"	"China"	2
+"HGDP01321"	"Lahu"	"China"	2
+"HGDP01322"	"Lahu"	"China"	2
+"HGDP01323"	"Lahu"	"China"	2
+"HGDP01326"	"Lahu"	"China"	2
+"HGDP01327"	"She"	"China"	2
+"HGDP01328"	"She"	"China"	2
+"HGDP01329"	"She"	"China"	2
+"HGDP01330"	"She"	"China"	2
+"HGDP01331"	"She"	"China"	2
+"HGDP01332"	"She"	"China"	2
+"HGDP01333"	"She"	"China"	2
+"HGDP01334"	"She"	"China"	2
+"HGDP01335"	"She"	"China"	2
+"HGDP01336"	"She"	"China"	2
+"HGDP01337"	"Naxi"	"China"	2
+"HGDP01338"	"Naxi"	"China"	2
+"HGDP01339"	"Naxi"	"China"	2
+"HGDP01340"	"Naxi"	"China"	2
+"HGDP01341"	"Naxi"	"China"	2
+"HGDP01342"	"Naxi"	"China"	2
+"HGDP01344"	"Naxi"	"China"	2
+"HGDP01345"	"Naxi"	"China"	2
+"HGDP01346"	"Naxi"	"China"	2
+"HGDP01347"	"Tu"	"China"	2
+"HGDP01348"	"Tu"	"China"	2
+"HGDP01349"	"Tu"	"China"	2
+"HGDP01350"	"Tu"	"China"	2
+"HGDP01351"	"Tu"	"China"	2
+"HGDP01352"	"Tu"	"China"	2
+"HGDP01353"	"Tu"	"China"	2
+"HGDP01354"	"Tu"	"China"	2
+"HGDP01355"	"Tu"	"China"	2
+"HGDP01356"	"Tu"	"China"	2
+"HGDP01357"	"French_Basque"	"France"	3
+"HGDP01358"	"French_Basque"	"France"	3
+"HGDP01359"	"French_Basque"	"France"	3
+"HGDP01360"	"French_Basque"	"France"	3
+"HGDP01361"	"French_Basque"	"France"	3
+"HGDP01362"	"French_Basque"	"France"	3
+"HGDP01363"	"French_Basque"	"France"	3
+"HGDP01364"	"French_Basque"	"France"	3
+"HGDP01365"	"French_Basque"	"France"	3
+"HGDP01366"	"French_Basque"	"France"	3
+"HGDP01367"	"French_Basque"	"France"	3
+"HGDP01368"	"French_Basque"	"France"	3
+"HGDP01369"	"French_Basque"	"France"	3
+"HGDP01370"	"French_Basque"	"France"	3
+"HGDP01371"	"French_Basque"	"France"	3
+"HGDP01372"	"French_Basque"	"France"	3
+"HGDP01373"	"French_Basque"	"France"	3
+"HGDP01374"	"French_Basque"	"France"	3
+"HGDP01375"	"French_Basque"	"France"	3
+"HGDP01376"	"French_Basque"	"France"	3
+"HGDP01377"	"French_Basque"	"France"	3
+"HGDP01378"	"French_Basque"	"France"	3
+"HGDP01379"	"French_Basque"	"France"	3
+"HGDP01380"	"French_Basque"	"France"	3
+"HGDP01381"	"Adygei"	"Russia Caucasus"	3
+"HGDP01382"	"Adygei"	"Russia Caucasus"	3
+"HGDP01383"	"Adygei"	"Russia Caucasus"	1
+"HGDP01384"	"Adygei"	"Russia Caucasus"	1
+"HGDP01385"	"Adygei"	"Russia Caucasus"	3
+"HGDP01386"	"Adygei"	"Russia Caucasus"	3
+"HGDP01387"	"Adygei"	"Russia Caucasus"	3
+"HGDP01388"	"Adygei"	"Russia Caucasus"	3
+"HGDP01396"	"Adygei"	"Russia Caucasus"	3
+"HGDP01397"	"Adygei"	"Russia Caucasus"	3
+"HGDP01398"	"Adygei"	"Russia Caucasus"	3
+"HGDP01399"	"Adygei"	"Russia Caucasus"	3
+"HGDP01400"	"Adygei"	"Russia Caucasus"	3
+"HGDP01401"	"Adygei"	"Russia Caucasus"	3
+"HGDP01402"	"Adygei"	"Russia Caucasus"	3
+"HGDP01403"	"Adygei"	"Russia Caucasus"	3
+"HGDP01404"	"Adygei"	"Russia Caucasus"	3
+"HGDP01405"	"Bantu_N.E."	"Kenya"	4
+"HGDP01406"	"Bantu_N.E."	"Kenya"	4
+"HGDP01408"	"Bantu_N.E."	"Kenya"	4
+"HGDP01411"	"Bantu_N.E."	"Kenya"	4
+"HGDP01415"	"Bantu_N.E."	"Kenya"	4
+"HGDP01416"	"Bantu_N.E."	"Kenya"	4
+"HGDP01417"	"Bantu_N.E."	"Kenya"	4
+"HGDP01418"	"Bantu_N.E."	"Kenya"	4
+"HGDP01419"	"Bantu_N.E."	"Kenya"	4
